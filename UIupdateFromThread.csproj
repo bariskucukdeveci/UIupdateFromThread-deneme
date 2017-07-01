@@ -96,12 +96,6 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\StressWinPro\StressWinPro.csproj">
-      <Project>{62cfbb17-baa7-47ab-8b97-04dba02cca78}</Project>
-      <Name>StressWinPro</Name>
-    </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
     <BootstrapperPackage Include=".NETFramework,Version=v4.5.2">
       <Visible>False</Visible>
       <ProductName>Microsoft .NET Framework 4.5.2 %28x86 and x64%29</ProductName>
