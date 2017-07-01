@@ -30,7 +30,7 @@ namespace UIupdateFromThread
             //threadStart = new ThreadStart();
             myUpdateThread = new Thread(GetTheThreadStarted);
             //todo: Timer denemesi yapılabilir...
-            //myTimer timer = new myTimer();
+            myTimer timer = new myTimer();
             myUpdateThread.Name = "Second Thread";
             myUpdateThread.Start();
         }
