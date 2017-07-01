@@ -21,3 +21,6 @@ C:\Yaz\EforProje\StressWinVer4.1.0\StressWinVer4.1.0\StressWinPro 4.1.0\StressWi
 C:\Yaz\EforProje\StressWinVer4.1.0\StressWinVer4.1.0\StressWinPro 4.1.0\StressWinPro_4.1.0\denemeler\UIupdateFromThread\obj\Debug\UIupdateFromThread.csproj.GenerateResource.Cache
 C:\Yaz\EforProje\StressWinVer4.1.0\StressWinVer4.1.0\StressWinPro 4.1.0\StressWinPro_4.1.0\denemeler\UIupdateFromThread\obj\Debug\UIupdateFromThread.exe
 C:\Yaz\EforProje\StressWinVer4.1.0\StressWinVer4.1.0\StressWinPro 4.1.0\StressWinPro_4.1.0\denemeler\UIupdateFromThread\obj\Debug\UIupdateFromThread.pdb
+C:\Users\Skyly\Documents\GitHub\deneme\bin\Debug\UIupdateFromThread.exe.config
+C:\Users\Skyly\Documents\GitHub\deneme\obj\Debug\UIupdateFromThread.exe
+C:\Users\Skyly\Documents\GitHub\deneme\obj\Debug\UIupdateFromThread.pdb
